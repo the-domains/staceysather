@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[staceysather]]></title>
-        <description><![CDATA[staceysather]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Stacey Sather Photography]]></title>
+        <description><![CDATA[Stacey Sather Photography]]></description>
+        <link>https://thegrid.ai/staceysather/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 May 2016 22:42:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 May 2016 23:04:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/staceysather/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[First Place Winner: Find Your Park Centennial Celebration]]></title>
             <description><![CDATA[<article><h1>First Place Winner: Find Your Park Centennial Celebration</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/48047bbf-2135-4415-b7f2-fe13c2aee124.jpg"></article>]]></description>
-            <link>undefinedfirst-place-winner-find-your-park-centennial-celebration/index.html</link>
+            <link>https://thegrid.ai/staceysather/first-place-winner-find-your-park-centennial-celebration/index.html</link>
             <guid isPermaLink="false">40d2d6bd-46f5-4535-81c4-ad37a1900eb9</guid>
-            <pubDate>Thu, 12 May 2016 22:42:49 GMT</pubDate>
+            <pubDate>Thu, 12 May 2016 23:04:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
