@@ -1,7 +1,7 @@
 name: staceysather
 favicon: null
 layout_spectrum: 0.2816037570592016
-typography_spectrum: 0.3203466266859323
+typography_spectrum: 0.34419
 title: Stacey Sather Photography
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.8620796429459006
-  lightness: 0.314897176111117
-  saturation: 0.8053794004954398
-  rhythmicContrast: 0.9824805175885558
+    - '#636363'
+    - '#dddddd'
+    - '#424242'
+    - '#a2a2a2'
+    - '#010101'
+  brandStrength: 0.875
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
