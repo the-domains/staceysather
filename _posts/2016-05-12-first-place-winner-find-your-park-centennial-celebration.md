@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-12T22:42:49.316Z'
-dateModified: '2016-05-12T22:40:17.486Z'
+datePublished: '2016-05-12T23:04:47.548Z'
+dateModified: '2016-05-12T23:01:53.859Z'
 title: 'First Place Winner: Find Your Park Centennial Celebration'
 author:
-  - name: Stacey Sather
+  - name: ''
     url: ''
+sourcePath: _posts/2016-05-12-first-place-winner-find-your-park-centennial-celebration.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-12-first-place-winner-find-your-park-centennial-celebration.md
 url: first-place-winner-find-your-park-centennial-celebration/index.html
 _type: Article
 
